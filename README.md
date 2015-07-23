@@ -1,6 +1,6 @@
 # ParkerhillCards
 
-The following asset packs are required by not in the repository:
+The following asset packs are required but not in the repository:
 ```
 AssetPacks/
   Cardboard/
